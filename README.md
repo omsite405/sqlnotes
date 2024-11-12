@@ -1,1 +1,2 @@
 # sqlnotes
+## MADE CHANGES , FEATURE1 ADDED 
